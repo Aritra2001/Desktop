@@ -1,0 +1,279 @@
+ @import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Quicksand:wght@300&display=swap');
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  
+  background: #000A32;
+  position: relative;
+  width: 1440px;
+  height: 3786px;
+  
+}
+.img1 {
+  background: url(bgcircle2.png);
+  position: absolute;
+width: 517px;
+height: 476px;
+left: 180px;
+top: -370px;
+background: #9091DE;
+opacity: 0.8;
+filter: blur(87px);
+
+}
+.img2 {
+  background: url(bgcircle1.png);
+  position: absolute;
+width: 517px;
+height: 476px;
+left: 1208px;
+top: 465px;
+
+background: rgba(138, 209, 209, 0.8);
+filter: blur(87px);
+}
+.navbar {
+  position: absolute;
+width: 1065px;
+height: 25px;
+left: 188px;
+top: 36px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+text-transform: uppercase;
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+color: #FFFFFF;
+}
+.navbar ul li {
+  display: inline-block;
+  position: relative;
+  text-transform: lowercase;
+  inline-size: 100px;
+}
+.navbar ul li a {
+ text-decoration: none;
+ color: #FFFFFF;
+}
+.herosec {
+  position: absolute;
+width: 1086px;
+height: 453px;
+left: 188px;
+top: 227px;
+}
+.head1 {
+  position: absolute;
+  left: 13.06%;
+  right: 25.79%;
+  top: 6.8%;
+  bottom: 85.62%;
+
+/* Header text */
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 87px;
+line-height: 87px;
+text-transform: capitalize;
+color: #FFFFFF;
+
+}
+.head2 {
+position: absolute;
+left: 13.06%;
+right: 52.04%;
+top: 69.06%;
+bottom: 83.29%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+/* or 138% */
+
+
+color: #FFFFFF;
+
+}
+.b1
+{
+position: absolute;
+width: 291px;
+height: 84px;
+left: 188px;
+top: 596px;
+
+background: #8A88CD;
+border-radius: 83px;
+
+
+/* buy nfts */
+
+
+position: absolute;
+left: 13.31%;
+right: 63.33%;
+top: 90.69%;
+bottom: 80.47%;
+
+/* Subheading */
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 138% */
+
+letter-spacing: 0.1em;
+text-transform: uppercase;
+cursor: pointer;
+
+color: #FFFFFF;
+
+}
+.b2 {
+  
+box-sizing: border-box;
+
+position: absolute;
+width: 285px;
+height: 84px;
+left: 497px;
+top: 596px;
+
+border: 1px solid #8AD1D1;
+border-radius: 83px;
+cursor: pointer;
+
+
+/* SELL nfts */
+
+
+position: absolute;
+left: 41.76%;
+right: 33.33%;
+top: 90.69%;
+bottom: 80.47%;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 138% */
+
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+color: #ffffff;
+background: transparent;
+
+}
+.herosec {
+  margin-left: -140px;
+}
+.image {
+position: absolute;
+width: 546px;
+height: 378px;
+left: 850px;
+top: -10px;
+background: url(Other07.png);
+}
+.lg {
+  position: absolute;
+left: 13.68%;
+right: 60.42%;
+top: 90vh;
+bottom: 73.44%;
+
+/* Subheading */
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 138% */
+
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.logo1 {
+  position: absolute;
+width: 216px;
+height: 49px;
+left: 278px;
+top: 931px;
+
+background: url(image6.png);
+opacity: 0.8;
+border-radius: 10px;
+margin-top: -127vh;
+margin-left: -180px;
+}
+.logo2 {
+  position: absolute;
+width: 190px;
+height: 28px;
+left: 575px;
+top: 942px;
+
+background: url(image5.png);
+opacity: 0.8;
+border-radius: 10px;
+margin-top: -127vh;
+margin-left: -180px;
+}
+.logo3 {
+  position: absolute;
+width: 77px;
+height: 29px;
+left: 868px;
+top: 941px;
+
+background: url(image7.png);
+opacity: 0.8;
+border-radius: 10px;
+margin-top: -127vh;
+margin-left: -180px;
+}
+.logo4 {
+  position: absolute;
+width: 113px;
+height: 28px;
+left: 1036px;
+top: 942px;
+
+background: url(image8.png);
+opacity: 0.8;
+border-radius: 10px;
+margin-top: -127vh;
+margin-left: -180px;
+}
+.logobanner
+{
+  position: absolute;
+  width: 1065px;
+  height: 97.06px;
+  left: 188px;
+  top: 905px;
+  
+  background: rgba(84, 61, 135, 0.39);
+  border-radius: 10px;
+}

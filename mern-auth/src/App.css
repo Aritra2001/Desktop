@@ -1,0 +1,80 @@
+
+.Nav img {
+  position: absolute;
+  top: 5vh;
+  left: 4.3rem;
+}
+.Nav h1 {
+  position: absolute;
+  left: 8rem;
+  top: 2vh;
+  font-family: 'Gilroy';
+  font-size: 40px;
+  color: black;
+}
+.btn-signin {
+  position: absolute;
+  top: 2.8rem;
+  left: 85rem;
+  background: #c640ff;
+border-radius: 109px;
+border: none;
+width: 100px;
+height: 40px;
+font-family: 'Gilroy';
+font-weight: 600;
+font-size: 18px;
+cursor: pointer;
+}
+.home {
+  text-align: center;
+  font-family: 'Gilroy';
+  font-weight: 600;
+  font-size: 36px;
+  margin-top: 20vh;
+}
+.account p {
+  text-align: center;
+  font-family: 'Gilroy';
+  font-weight: 600;
+  font-size: 36px;
+  margin-top: 30vh;
+}
+.btn-logout {
+  background: #45ffb2;
+border-radius: 109px;
+border: none;
+width: 110px;
+height: 40px;
+font-family: 'Gilroy';
+font-weight: 600;
+font-size: 18px;
+cursor: pointer;
+margin-left: 45rem;
+}
+.g-button {
+  position: absolute;
+  left: 45%;
+  top: 40vh;
+}
+#sgn {
+  text-align: center;
+  font-family: 'Gilroy';
+  font-weight: 600;
+  font-size: 36px;
+  margin-top: 25vh;
+  margin-left: 5rem;
+}
+.btn-log{
+background: #45ffb2;
+border-radius: 109px;
+border: none;
+width: 110px;
+height: 40px;
+font-family: 'Gilroy';
+font-weight: 600;
+font-size: 18px;
+cursor: pointer;
+margin-top: 2.8rem;
+margin-left: 85rem;
+}
